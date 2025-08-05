@@ -1,7 +1,7 @@
 # 3D Gallery |   静态图片展示页面
 
-🎨 A visually stunning **3D Image Gallery** built with pure **HTML + CSS**, featuring hover effects, responsive layout, and a modern "About Me" section.  
-🎨 一个基于 **HTML + CSS** 构建的精美 **3D 图片展示页面**，具有悬停效果、响应式布局，以及现代化的“关于我”界面。
+🎨 A visually stunning **3D Image Gallery** built with pure **HTML + CSS**, featuring hover effects, responsive layout.  
+🎨 一个基于 **HTML + CSS** 构建的精美 **3D 图片展示页面**，具有悬停效果、响应式布局。
 
 ![image.png](https://s2.loli.net/2025/08/06/LWYrB2SXaEDJj5f.png)
 
@@ -35,7 +35,7 @@
 ## 📁 Folder Structure | 项目结构
 
 3d-gallery/
-├── index.html # Main HTML file | 主页面
+├── Gallery.html # Main HTML file | 主页面
 ├── img/ # Image assets | 图片资源
 │ ├── cover_12.jpg
 │ ├── cover_13.jpg
@@ -48,17 +48,17 @@
 
 ## 🛠️ Getting Started | 使用方法
 
-Clone this repo and open `index.html`:  
-克隆仓库并打开 `index.html` 文件：
+Clone this repo and open `Gallery.html`:  
+克隆仓库并打开 `Gallery.html` 文件：
 
 ```bash
 git clone https://github.com/kizzy899/3d-gallery.git
 cd 3d-gallery
-open index.html
+open Gallery.html
 ```
 
-Or simply open index.html in your browser.
-或者直接在浏览器中打开 index.html。
+Or simply open Gallery.html in your browser.
+或者直接在浏览器中打开 Gallery.html。
 
 Replace images in the img/ folder with your own pictures.
 将 img/ 文件夹中的图片替换为你自己的资源。
